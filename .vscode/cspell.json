@@ -13,7 +13,11 @@
         ".vscode-insiders/**"
     ],
     // list of words to be always considered correct
-    "words": [],
+    "words": [
+        "tailwindcss",
+        "astrojs",
+        "astro"
+    ],
     "enableFiletypes": [
         "json",
         "css",
