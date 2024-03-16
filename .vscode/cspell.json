@@ -1,0 +1,25 @@
+// CSpell: https://cspell.org/
+{
+    // Version of the setting file.  Always 0.2
+    "version": "0.2",
+    // current active spelling language
+    "language": "en",
+    // list of globs to specify which files are to be ignored.
+    "ignorePaths": [
+        "node_modules/**",
+        "vscode-extension/**",
+        ".git/objects/**",
+        ".vscode/**",
+        ".vscode-insiders/**"
+    ],
+    // list of words to be always considered correct
+    "words": [],
+    "enableFiletypes": [
+        "json",
+        "css",
+        "node",
+        "md",
+        "typescript",
+        "js"
+    ]
+}
